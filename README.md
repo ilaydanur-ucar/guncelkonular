@@ -5,11 +5,6 @@ Güncel Konular dersi projesi. Safety 4.0 Bootcamp föylerindeki analizleri ger�
 
 **Neden bu makine?** Tesis senkron çalışan 3 alt sistemden oluşuyor ve her birinin kendi **PLC + HMI**'ı var. Gaz, 580 °C ısı, hidrolik ve ağır yük de aynı yerde. Yani fonksiyonel emniyet ve OT siber güvenlik bir arada analiz edilebiliyor.
 
-## Ekip
-| İsim | Sorumluluk |
-|---|---|
-| ... | ... |
-
 ## Sistem
 
 Homojenizasyon, alüminyum biyetleri ekstrüzyondan önce ~580 °C'de tavlama işlemi. Böylece biyet preste çatlamıyor ve alaşım elementleri homojen dağılıyor.
